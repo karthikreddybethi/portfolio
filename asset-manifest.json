@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5f0a87cc.chunk.css",
+    "main.js": "/portfolio/static/js/main.84eee159.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.84eee159.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
+    "static/js/2.afc5383f.chunk.js": "/portfolio/static/js/2.afc5383f.chunk.js",
+    "static/js/2.afc5383f.chunk.js.map": "/portfolio/static/js/2.afc5383f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.5f0a87cc.chunk.css.map": "/portfolio/static/css/main.5f0a87cc.chunk.css.map",
+    "static/js/2.afc5383f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.afc5383f.chunk.js.LICENSE.txt",
+    "static/media/coteu.e913a7df.png": "/portfolio/static/media/coteu.e913a7df.png",
+    "static/media/covid-19.ca12649d.png": "/portfolio/static/media/covid-19.ca12649d.png",
+    "static/media/karthikbethi.ec86d04f.jpg": "/portfolio/static/media/karthikbethi.ec86d04f.jpg",
+    "static/media/react-mobilestore.3234fc7b.png": "/portfolio/static/media/react-mobilestore.3234fc7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fed2963.js",
+    "static/js/2.afc5383f.chunk.js",
+    "static/css/main.5f0a87cc.chunk.css",
+    "static/js/main.84eee159.chunk.js"
+  ]
+}
