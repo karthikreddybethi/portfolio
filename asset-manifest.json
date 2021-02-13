@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.571b33ed.chunk.css",
-    "main.js": "/portfolio/static/js/main.cba00403.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cba00403.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d8eb8503.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d8eb8503.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
     "static/css/2.30fbed10.chunk.css": "/portfolio/static/css/2.30fbed10.chunk.css",
@@ -14,6 +14,7 @@
     "static/js/2.12d3e916.chunk.js.LICENSE.txt": "/portfolio/static/js/2.12d3e916.chunk.js.LICENSE.txt",
     "static/media/coteu.e913a7df.png": "/portfolio/static/media/coteu.e913a7df.png",
     "static/media/covid-19.ca12649d.png": "/portfolio/static/media/covid-19.ca12649d.png",
+    "static/media/getbrightapp.0870ea9d.png": "/portfolio/static/media/getbrightapp.0870ea9d.png",
     "static/media/karthikbethi.ec86d04f.jpg": "/portfolio/static/media/karthikbethi.ec86d04f.jpg",
     "static/media/react-mobilestore.3234fc7b.png": "/portfolio/static/media/react-mobilestore.3234fc7b.png"
   },
@@ -22,6 +23,6 @@
     "static/css/2.30fbed10.chunk.css",
     "static/js/2.12d3e916.chunk.js",
     "static/css/main.571b33ed.chunk.css",
-    "static/js/main.cba00403.chunk.js"
+    "static/js/main.d8eb8503.chunk.js"
   ]
 }
